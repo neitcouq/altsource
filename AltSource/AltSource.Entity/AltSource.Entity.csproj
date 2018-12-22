@@ -12,8 +12,4 @@
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" developmentDependency="true" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Migrations\" />
-  </ItemGroup>
-
 </Project>
