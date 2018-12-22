@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AltSource.Entity.Migrations
 {
     [DbContext(typeof(AltSourceContext))]
-    [Migration("20181222045851_InitialCreate")]
+    [Migration("20181222064613_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -116,7 +116,7 @@ namespace AltSource.Entity.Migrations
                         .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("AltSource.Entity.Vendor", "Vendor")
-                        .WithMany()
+                        .WithMany("ClothingRetails")
                         .HasForeignKey("VendorId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });

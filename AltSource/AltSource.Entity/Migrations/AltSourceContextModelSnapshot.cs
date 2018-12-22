@@ -114,7 +114,7 @@ namespace AltSource.Entity.Migrations
                         .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("AltSource.Entity.Vendor", "Vendor")
-                        .WithMany()
+                        .WithMany("ClothingRetails")
                         .HasForeignKey("VendorId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });

@@ -8,6 +8,7 @@ namespace AltSource.Entity
     {
         public string Name { get; set; }
         public virtual ICollection<ClothingVendor> ClothingVendors { get; set; }
+        public virtual ICollection<ClothingRetail> ClothingRetails { get; set; }
 
     }
 }
