@@ -1,0 +1,17 @@
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\Settings\apiresources.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\Settings\clients.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\Settings\users.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\IndentityServer.deps.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\IndentityServer.runtimeconfig.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\IndentityServer.runtimeconfig.dev.json
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\IndentityServer.dll
+D:\Workspace\AltSource\AltSource\IndentityServer\bin\Debug\netcoreapp2.1\IndentityServer.pdb
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.csprojAssemblyReference.cache
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.csproj.CoreCompileInputs.cache
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.RazorAssemblyInfo.cache
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.RazorAssemblyInfo.cs
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.AssemblyInfoInputs.cache
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.AssemblyInfo.cs
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.RazorTargetAssemblyInfo.cache
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.dll
+D:\Workspace\AltSource\AltSource\IndentityServer\obj\Debug\netcoreapp2.1\IndentityServer.pdb

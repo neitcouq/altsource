@@ -1,0 +1,12 @@
+D:\Workspace\AltSource\AltSource\AltSource.Domain\bin\Debug\netcoreapp2.1\AltSource.Domain.deps.json
+D:\Workspace\AltSource\AltSource\AltSource.Domain\bin\Debug\netcoreapp2.1\AltSource.Domain.dll
+D:\Workspace\AltSource\AltSource\AltSource.Domain\bin\Debug\netcoreapp2.1\AltSource.Domain.pdb
+D:\Workspace\AltSource\AltSource\AltSource.Domain\bin\Debug\netcoreapp2.1\AltSource.Entity.dll
+D:\Workspace\AltSource\AltSource\AltSource.Domain\bin\Debug\netcoreapp2.1\AltSource.Entity.pdb
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.csprojAssemblyReference.cache
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.AssemblyInfoInputs.cache
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.AssemblyInfo.cs
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.csproj.CopyComplete
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.dll
+D:\Workspace\AltSource\AltSource\AltSource.Domain\obj\Debug\netcoreapp2.1\AltSource.Domain.pdb

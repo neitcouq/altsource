@@ -1,0 +1,11 @@
+D:\Workspace\AltSource\AltSource\AltSource.Entity\bin\Debug\netcoreapp2.1\AltSource.Entity.deps.json
+D:\Workspace\AltSource\AltSource\AltSource.Entity\bin\Debug\netcoreapp2.1\AltSource.Entity.runtimeconfig.json
+D:\Workspace\AltSource\AltSource\AltSource.Entity\bin\Debug\netcoreapp2.1\AltSource.Entity.runtimeconfig.dev.json
+D:\Workspace\AltSource\AltSource\AltSource.Entity\bin\Debug\netcoreapp2.1\AltSource.Entity.dll
+D:\Workspace\AltSource\AltSource\AltSource.Entity\bin\Debug\netcoreapp2.1\AltSource.Entity.pdb
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.csproj.CoreCompileInputs.cache
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.AssemblyInfoInputs.cache
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.AssemblyInfo.cs
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.dll
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.pdb
+D:\Workspace\AltSource\AltSource\AltSource.Entity\obj\Debug\netcoreapp2.1\AltSource.Entity.csprojAssemblyReference.cache
